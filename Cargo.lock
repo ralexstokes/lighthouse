@@ -10794,7 +10794,7 @@ dependencies = [
 [[package]]
 name = "xdelta3"
 version = "0.1.5"
-source = "git+http://github.com/sigp/xdelta3-rs?rev=50d63cdf1878e5cf3538e9aae5eed34a22c64e4a#50d63cdf1878e5cf3538e9aae5eed34a22c64e4a"
+source = "git+http://github.com/ralexstokes/xdelta3-rs?rev=522226ba0d9ccc32f0010ac5c7ada1c2ed9c66b8#522226ba0d9ccc32f0010ac5c7ada1c2ed9c66b8"
 dependencies = [
  "bindgen",
  "cc",
