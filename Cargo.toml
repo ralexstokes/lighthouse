@@ -289,7 +289,7 @@ validator_metrics = { path = "validator_client/validator_metrics" }
 validator_store = { path = "validator_client/validator_store" }
 validator_test_rig = { path = "testing/validator_test_rig" }
 warp_utils = { path = "common/warp_utils" }
-xdelta3 = { git = "http://github.com/ralexstokes/xdelta3-rs", rev = "23513b3b084975e2dcbd9e777037f491686cc183" }
+xdelta3 = { git = "http://github.com/ralexstokes/xdelta3-rs", rev = "e78d29e199c59e0ede142bc6262c633365aea1b4" }
 zstd = "0.13"
 
 [profile.maxperf]
